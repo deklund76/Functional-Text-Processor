@@ -28,6 +28,8 @@ Number of 16 letters words: 2
 
 Number of 19 letters words: 1
 
+Usage: in your command line run "python textanalyzer.py inputfile" where the inputfile is of course the file to be read, invalid inputs will lead to a FileNotFoundError.
+
 Details: Characters include all ASCII characters other than newline characters.
          Words are defined as any string of alpha-numeric characters seperated by other characters or spaces.
          I had no exposure to functional programming whatsoever before writing this program so it took me ~8 hours.
