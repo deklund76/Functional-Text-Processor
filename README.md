@@ -5,16 +5,27 @@ The program is a fully-functional text processor that takes a text file as an en
 and generates a report describing the content in the following format: 
 
 File name: D:\temp\file.txt
+
 Number of lines: 85
+
 Number of characters (total): 1441
+
 Number of letters: 782
+
 Number of figures: 17
+
 Number of other characters: 642
+
 Number of words: 195
+
 Number of 1 letter words: 56
+
 Number of 2 letters words: 27
+
 [...]
+
 Number of 16 letters words: 2
+
 Number of 19 letters words: 1
 
 Details: Characters include all ASCII characters other than newline characters.
