@@ -1,4 +1,4 @@
-# For-Esker-Inc
+# Functional Text Processor
 A repository featuring application questions and a small program to be viewed by employees of Esker Inc.
 
 The program is a fully-functional text processor that takes a text file as an entry level parameter 
